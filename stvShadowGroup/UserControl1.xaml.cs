@@ -28,8 +28,7 @@ namespace stvShadowGroup
         }
     }
 
-    //[Designer("System.Windows.Forms.Design.ControlDesigner, System.Design")]
-    //[DesignerSerializer("System.ComponentModel.Design.Serialization.TypeCodeDomSerializer , System.Design", "System.ComponentModel.Design.Serialization.CodeDomSerializer, System.Design")]
+    //Element host which will host the control - in main you reffer to this class only.
     public class GroupHoster_WinformsHost : System.Windows.Forms.Integration.ElementHost
     {
         protected UserControl1 _usrctrl = new UserControl1();
