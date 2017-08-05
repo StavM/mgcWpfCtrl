@@ -1,0 +1,12 @@
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\bin\Debug\stvShadowGroup.dll
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\bin\Debug\stvShadowGroup.pdb
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup.csprojResolveAssemblyReference.cache
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\UserControl1.baml
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\UserControl1.g.cs
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup_MarkupCompile.cache
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup.g.resources
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup.Properties.Resources.resources
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup.csproj.GenerateResource.Cache
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup.dll
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup.pdb
+c:\users\u\documents\visual studio 2017\Projects\stvShadowGroup\stvShadowGroup\obj\Debug\stvShadowGroup_MarkupCompile.lref
